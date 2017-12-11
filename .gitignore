@@ -1,0 +1,11 @@
+branches/
+hooks/
+info/
+ref/
+config
+description
+HEAD
+__pycache__/
+bin/
+include/
+lib/
